@@ -1,4 +1,4 @@
-import { cx } from '@/utils'
+import { cx } from '@/src/utils'
 import './globals.css'
 import { Inter, Manrope } from 'next/font/google'
 
